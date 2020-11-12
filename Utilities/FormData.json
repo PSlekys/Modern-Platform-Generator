@@ -1,0 +1,6 @@
+[
+  { "id": "dogname", "labelText": "Dog Name" },
+  { "id": "dogbreed", "labelText": "Dog Breed" },
+  { "id": "dogage", "labelText": "Age" },
+  { "id": "dogsowner", "labelText": "Owners Name" }
+]
